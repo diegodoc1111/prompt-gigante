@@ -1,0 +1,322 @@
+PROMPTS QUE ESCRIBIÓ CLAUDE PARA "LE AYUDÉ A UN GIGANTE" (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = una foto de tu cara · Image 2 = tu ficha de cuerpo entero con la ropa del video (Claude la crea con GPT Image 2.6).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio. Cambia [YOUR LOOK] por cómo eres tú.
+Image 3 = la ficha del ogro. La parte 2 arranca del último cuadro de la parte 1 (Image 4) y usa un recorte de la astilla (Image 5).
+Las 2 tomas que se rehicieron (el ogro intentando sacarla y el jalón) van al final.
+
+==============================================================================
+FICHA DEL PERSONAJE (GPT Image 2.6, 9:16)
+==============================================================================
+
+Create three photorealistic studio photographs of the same adult man, arranged side by side in one 16:9 character reference sheet: a full-body front view on the left, a full-body back view in the middle, and a detailed head-and-shoulders portrait on the right. All three panels are the same height and sit on one continuous neutral mid-grey studio backdrop.
+
+IDENTITY — MOST IMPORTANT INSTRUCTION. EXACTLY the man of image 1 (image 3 shows the same man in three-quarter view): [YOUR LOOK: glasses or not, hair, beard], both eyes the same size, his real age. Preserve his exact face shape, jawline, eyes, eyebrows, nose, lips, skin tone and natural marks. Never beautify, stylize, age up, age down, slim or replace his identity. He must be instantly recognisable as the man in image 1 in all three panels. Body as image 2: tall and fit but LEAN and slim, NOT muscular, NOT bulky, normal arms, head and face naturally sized. Use the images for the face, hair and body only: do not copy their clothes or background. If he wears glasses, he keeps them in all panels.
+
+OUTFIT — a lone mountain traveller in deep winter, practical and worn:
+- a long, deep rust-red wool coat with a large hood resting on the shoulders, falling to the knees, belted at the waist with a worn brown leather belt
+- a thick cream cable-knit wool scarf wrapped high at the neck
+- dark brown knitted fingerless gloves over thin cream wool liner gloves
+- dark charcoal wool trousers tucked into tall, worn brown leather snow boots with fur trim at the top
+- a small brown canvas satchel on a leather strap across the body
+Everything shows real wear: faded wool, creases, scuffed leather and stitching. No jewellery.
+
+PANEL 1 — front, full body: standing naturally facing the camera, arms relaxed, a calm, curious expression, looking into the lens. Complete head-to-toe framing with a little space above the head and below the boots.
+PANEL 2 — back, full body: the same pose seen directly from behind, showing the back of the coat and hood, the satchel strap, the back of the hair and the boots. Complete head-to-toe framing.
+PANEL 3 — head-and-shoulders portrait: a large close-up from the top of the head to the coat collar, straight-on, neutral expression, natural eye contact, mouth closed. The scarf and the hood edge are clearly visible.
+
+PHOTOGRAPHY: ultra-photorealistic, shot on a Sony A7R V with an 85mm portrait lens. Soft, directional studio light from the front left, identical in all three panels. Natural colour. Real skin with pores, fine facial hair and natural tiny asymmetry; moist eyes with realistic catchlights; real wool fibres, knit texture, leather grain and stitching. Soft floor shadows under the feet in the full-body panels. All three panels look like photographs taken seconds apart in one studio session.
+CONSISTENCY: the exact same face, glasses, hair and outfit in all three panels.
+Negative: no change to his face or age, no beautified or smoothed face, no different face between panels, no jewellery, no modern logos, no puffer jacket, no bright new clean clothes, no cropped head or feet in the full-body panels, no dramatic pose, no 3D render, no CGI, no illustration, no plastic or waxy skin, no beauty filter, no text, no labels, no watermark.
+
+==============================================================================
+FICHA DEL OGRO (GPT Image 2.6, 9:16)
+==============================================================================
+
+A three-panel character reference sheet of ONE gigantic humanoid ogre, 16:9, three equal panels side by side on one seamless dark charcoal-grey studio background, soft directional light from the upper left, a real soft contact shadow under the feet. Photographed like a real practical creature built and filmed for a top-budget live-action film: real skin, real hair, real leather. Not CGI, not illustration, not a game model, not plastic.
+
+THE OGRE (identical in all panels): an enormous brute with two arms and two legs and a massive, intimidating build: a hulking hunched back, huge rounded shoulders, a thick neck, long powerful arms with enormous knuckled hands, and thick legs with wide bare feet. Grey-green leathery hide, rough and warty, with darker mottling, old pale scars and dried mud on the shins. A heavy, protruding brow over small, deep-set amber eyes, a wide flat nose, and a broad jaw with two thick, chipped, yellowed lower tusks curving up over his upper lip. Coarse black hair pulled into a rough topknot. He wears a heavy matted dark-brown fur cloak over his shoulders and back, tied at the chest with a knotted rope, a stitched animal-hide kilt held by a thick rope belt, a necklace of rope and large animal bones, and dented iron cuffs on both wrists.
+
+LEFT PANEL: full body, front view, standing tall, chest heaving, fists loose at his sides, glaring down toward the camera.
+CENTRE PANEL: full body, pure side profile facing left, showing the hunched back, the fur cloak, the tusks and the long arms.
+RIGHT PANEL: head-and-shoulders close-up, three-quarter view, slightly from below, showing the tusks, the warty skin and the amber eyes.
+
+Real skin texture with pores and fine hairs, real wet glint in the eyes, real cracked leather, matted fur and coarse rope. No other people, no text, no labels, no arrows, no grid lines, no weapons, no cartoon, anime, CGI or plastic look.
+
+==============================================================================
+PARTE 1 (27 s)
+==============================================================================
+
+A 27-second scene, vertical 9:16, ten shots joined by hard cuts. A scene from a top-budget live-action fantasy epic, filmed on location in real snowy mountains with world-class visual effects, so seamless the giant looks physically present. A man walking through a snowy pass stops to enjoy the view at the foot of a tall rock wall when a gigantic ogre's foot comes down right behind him. He runs and hides behind a snowbank, then watches the giant sit down and fail, again and again, to pull a thin splinter from the outer side of his foot, because it is far too small for his fingers. He thinks it over and decides to help. Everything is filmed for real: real scale, real weight, real snow, real breath in the cold air. Shot on an ARRI Alexa 65 with large-format anamorphic lenses, 24 fps, 180-degree shutter, fine film grain. Not animation, not a video game.
+
+ACTIVE REFERENCES (each image has ONE job only)
+Image 1 = THE MAN'S FACE: lock his identity completely: [YOUR LOOK: glasses or not, hair, beard], his exact face, eyes, eyebrows, nose and lips. He wears his glasses in every shot.
+Image 2 = THE MAN'S OUTFIT AND BODY (the same man): tall and lean, not muscular, and his outfit exactly:
+- a long rust-red wool coat with a hood resting on the shoulders, belted at the waist
+- a thick cream cable-knit scarf wrapped high at the neck
+- dark brown fingerless gloves over cream knit cuffs
+- charcoal wool trousers
+- tall brown leather snow boots with fur trim
+- a small brown canvas satchel across the body
+No jewellery. Take nothing else from images 1 and 2: not their grey backgrounds, not the panel layout.
+Image 3 = THE OGRE'S LOOK ONLY. Copy his design exactly:
+- a hunched, massive body with grey-green warty hide
+- small deep-set amber eyes under a heavy brow
+- a wide flat nose and two thick chipped yellowed lower tusks
+- a coarse black topknot
+- a heavy matted dark-brown fur cloak tied at the chest with a knotted rope
+- a stitched hide kilt with a rope belt and dented iron cuffs on both wrists
+- huge bare feet
+Take nothing else from image 3: not its studio background, not its studio lighting, not its size; he is a GIANT here.
+
+THE PLACE (one location; everything below is there from the first frame and appears only once)
+A high mountain pass in deep winter on a crisp, clear morning.
+THE MAP (fixed for every shot):
+- THE ROCK WALL: a tall, sheer grey rock wall streaked with snow and ice, running along the LEFT side of the pass.
+- THE SNOWBANK: a long, smooth, wind-drifted snowbank about as high as a person's waist, about 8 metres out from the rock wall, curving across the snowfield.
+- THE ROCK MOUND: about 25 metres beyond the snowbank, near the rock wall, a low, rounded, snow-covered rock mound only about 2 metres high, where the giant will sit.
+NATURAL DETAILS (subtle, never crowded): three or four tall, dark pine trees heavy with snow, standing apart at different distances across the snowfield, the nearest about 15 metres beyond the mound; a dark band of pine forest along the foot of the distant mountains; a few small dark rocks and tufts of dry golden grass near the base of the rock wall, none bigger than knee height; wind-sculpted ripples and soft drifts in the snow; a thin, low mist in the far valley; jagged white peaks on the horizon under a pale blue sky.
+LIGHT: low golden sun from the LEFT, long blue shadows on the snow, sparkling snow crystals, fine spindrift drifting in the wind.
+No other rocks, boulders or trees appear, and nothing new appears later.
+
+SCALE (very important)
+The ogre is a true giant, about 18 metres tall: the pine trees reach only to his knees. His bare foot is about 3.5 metres long, and the top of his toes is higher than the man's head. The man is a normal 1.85-metre person and looks tiny beside any part of him. Sitting on the low rock mound, his seat is only about knee-height to him, so his feet rest on the snow at ground level, where a person can reach them. He is never shown at human size.
+
+THE SPLINTER (very important)
+A single thin, sharp splinter of pale golden pine wood, about the length of a forearm and as thick as a thumb, stuck in the OUTER SIDE EDGE of his right foot (the little-toe side), about two toe-lengths below the smallest toe, sticking out sideways. Never in the flat sole, not under his toes, not in his heel. It is tiny compared with him: each of his fingertips is far wider than the splinter, so his huge fingers cannot pinch or grip it. It is just the right size for a human hand. The skin around it is red and swollen; no blood. It stays in his foot for this whole scene.
+
+== SHOT 1 — WALKING, CALM, THEN THE FOOT [0.0–3.4s] ==
+CAMERA: 35mm lens, slightly low, locked off, a medium-wide shot. The rock wall on the LEFT side of the frame; on the RIGHT, the open snowfield with the long snowbank curving across it, a lone snow-laden pine further out, the dark forest line and distant peaks, pale-blue sky above.
+0.0–0.6 He walks in from the left along the foot of the rock wall, boots crunching in the snow, and slows to a stop in the lower left of the frame, seen from his knees up.
+0.6–2.0 He is calm and relaxed, enjoying the view: a small content smile, slow easy breaths making soft wisps of steam, his eyes wandering across the snowfield. No fear at all.
+2.0–2.3 A deep, heavy THUD shakes the ground; a thin stream of snow sifts down the rock wall beside him. His smile drops and he starts to turn his head.
+2.3–3.4 A colossal grey-green bare foot comes down from the TOP RIGHT of the frame and plants itself in the snow just behind him and to his right, toes taller than he is, a burst of powder snow rolling out from under it. He spins around, sees it, and gasps.
+HARD CUT.
+
+== SHOT 2 — HE RUNS [3.4–6.4s] ==
+CAMERA: 28mm lens, low, placed just beyond the snowbank, locked off, a wide shot looking back toward the rock wall.
+He sprints toward the camera through deep snow for seven or eight steps: high, struggling knee lifts, boots sinking calf-deep, arms out for balance, snow kicking up, one stumble that he catches with a hand. In the background the giant foot lifts away out of frame, raining snow. He throws himself down behind the snowbank in the foreground and presses flat against it, gasping.
+HARD CUT.
+
+== SHOT 3 — HIDDEN [6.4–8.0s] ==
+CAMERA: 50mm lens, a close-up of his face pressed against the snowbank, locked off.
+Breathing hard now, fast clouds of steam, snow on his glasses and hair. He slowly raises his head and peeks over the top of the snowbank.
+HARD CUT.
+
+== SHOT 4 — THE GIANT SITS [8.0–12.0s] ==
+CAMERA: 32mm lens, very low, near the snow, looking up, locked off. The low snow-covered rock mound in the lower part of the frame, the rock wall on the left edge, a snow-laden pine behind on the right reaching only to his knee, pale-blue sky above.
+8.0–9.6 The giant ogre of image 3 lowers himself heavily and sits down on the low rock mound, his body turned three-quarter to the right of the frame, his knees high and his feet planted in the snow. The ground shakes and snow slides off the mound in sheets; snow drops from the pine's branches.
+9.6–12.0 Grimacing, he lifts his right foot and rests it across his left knee, the sole turned toward the camera, and holds it with one enormous hand around the heel. A deep groan rumbles out of him, steam pours from his nostrils.
+HARD CUT.
+
+== SHOT 5 — HIDING AND WATCHING, ONE FRAME [12.0–14.5s] ==
+CAMERA: THE SNOWBANK CAMERA: 28mm lens, low, placed just behind and to the right of the man's spot at the snowbank, locked off, a wide shot looking toward the mound.
+In the FOREGROUND on the right: the man lying behind the snowbank, seen from behind and the side, peeking over its top. In the BACKGROUND on the left, about 25 metres away and towering above him: the giant sitting on the low mound against the rock wall, his foot across his knee, bent over it. A snow-laden pine stands off to the right in the middle distance. Both are clearly in the same frame. The giant doesn't see him.
+HARD CUT.
+
+== SHOT 6 — HE CAN'T GET IT [14.5–17.0s] ==
+CAMERA: 50mm lens, low, an insert close shot of the raised foot. The sole fills the right of the frame, held upright in his left hand around the heel; his face visible in soft focus above and behind the foot, looking down at it.
+The thin pale splinter sticks out sideways from the outer side edge of the foot, below the smallest toe. His right hand comes in from the left: his enormous thumb and forefinger try to pinch it again and again, but his fingertips are far too wide. They press against it, slide right past it, and his thick nail can't catch it. The splinter stays exactly where it is. He hisses through his tusks.
+HARD CUT.
+
+== SHOT 7 — HE THINKS [17.0–19.0s] ==
+CAMERA: 50mm lens, a medium shot of the man behind the snowbank, three-quarter view, locked off.
+His breathing slows. He watches the giant, his eyes moving from his face to his foot. His brow furrows and he bites his lip, thinking.
+HARD CUT.
+
+== SHOT 8 — THE GIANT'S FRUSTRATION [19.0–21.2s] ==
+CAMERA: 75mm lens, a close-up of the ogre's face from slightly below, locked off.
+He glares down at his foot, heavy brow knotted, tusks bared, and lets out a deep frustrated groan and a blast of steam from his nostrils. Then a long, defeated sigh, his huge shoulders sagging.
+HARD CUT.
+
+== SHOT 9 — HE DECIDES [21.2–22.6s] ==
+CAMERA: 50mm lens, a medium shot of the man behind the snowbank, locked off.
+Still crouched behind the snowbank, he takes one deep breath and tightens his scarf with both hands, his face set with quiet courage.
+HARD CUT.
+
+== SHOT 10 — HE GOES TO THE GIANT [22.6–27.0s] ==
+CAMERA: EXACTLY the same snowbank camera as shot 5: the same position, lens, framing and background. Locked off.
+22.6–23.4 In the foreground on the right, at the very same spot behind the snowbank, he gets to his feet.
+23.4–25.0 He climbs over the snowbank and walks away from the camera across the deep snow toward the giant on the mound, tiny against him, leaving a line of footprints leading back to his hiding spot.
+25.0–25.8 The giant notices him and freezes, his amber eyes slowly turning down toward him.
+25.8–27.0 Never taking his eyes off him, the giant slowly lifts his hurt foot off his knee and sets its heel down in the snow right in front of the man, toes pointing up, the sole facing him. The splinter on the outer side edge of the foot is at the height of the man's chest, within his reach. The man stops right in front of the sole, looking up at the giant. Hold, wind only.
+
+PERFORMANCE AND MOTION
+Real, natural human behaviour, never theatrical: an easy walk and calm enjoyment, then a jolt of fear, panicked running, hard breathing, then curiosity, thought and quiet courage. His run is clumsy and real in deep snow. The ogre moves slowly and heavily with enormous weight: his body sways as he sits, the fur cloak and hide swing and settle with lag, his fingers flex. He is in pain and weary, never aggressive; he never roars at the man. Nobody speaks.
+
+REALISM (most important)
+- ONE LIGHT FOR EVERYTHING: low golden winter sun from the LEFT, the same on the man, the ogre, the snow, the rock and the trees.
+- THE GIANT IS REALLY THERE: every contact sinks into the snow and pushes up real powder; huge blue shadows fall across the snow and over the man; matte, dry, cold-reddened hide with pores and warts, frost in his fur cloak, real steam from his breath; seamless visual effects, never glossy, rubbery or computer-looking.
+- THE MAN IS REALLY THERE: lit by the same sun, his own shadow on the snow, snow on his coat and boots, cheeks and nose red from the cold, breath steaming, not brighter or cleaner than his surroundings.
+- SAME CAMERA: the same grain, haze and colour on everything; the far forest and peaks softened by cold haze and mist.
+- COLOUR GRADE: crisp, natural winter grade: cool blue shadows, warm golden sunlight, white snow never blown out, soft highlight roll-off, real anamorphic lens flare from the low sun.
+
+SOUND (wordless, no music)
+Mountain wind, his footsteps crunching and his calm slow breathing, then the deep sub-bass THUD of the giant's footstep and the soft roar of powder snow, snow sifting down the rock, his gasp, his boots floundering as he runs, his hard breathing, snow sliding off the mound and dropping from pine branches, the giant's deep groans, hisses and a long sigh, the creak of his fur cloak and leather, the crunch of the man's boots as he walks to him. The scene ends on wind only. No music, no score, no dialogue, no narration.
+
+BANS
+- The man's face, glasses and outfit are always exactly images 1 and 2.
+- He is calm before the thud; no fear or heavy breathing before it.
+- The giant foot is on screen for only about one second in shot 1.
+- The map never changes: rock wall on the left, snowbank, mound beyond it.
+- He hides behind the snowbank and starts his walk from that same spot; shots 5 and 10 are the same camera setup.
+- No new rocks, boulders or trees appear later.
+- The ogre always matches image 3 and is always a giant, never human-sized.
+- He sits on the LOW mound, never on a high ledge; his foot always comes down within the man's reach.
+- The splinter is thin, pale and forearm-length, on the outer side edge of the foot below the smallest toe, never in the flat sole: never under the toes, never a log. The giant never pulls it out.
+- No blood, no gore. The giant never attacks, grabs or roars at the man.
+- No other people, no animals, no other creatures.
+- No cartoon, plush or game look, no plastic skin.
+- No camera movement: every shot is locked off.
+- No snow that floats or freezes in the air, no smoke.
+- No music of any kind. No text, no subtitles, no logos, no watermarks.
+
+==============================================================================
+PARTE 2 (30 s)
+==============================================================================
+
+A 30-second scene, vertical 9:16, thirteen shots joined by hard cuts. It continues the previous scene with no gap: the first frame is EXACTLY image 4. A scene from a top-budget live-action fantasy epic, filmed on location in real snowy mountains with world-class visual effects, so seamless the giant looks physically present. The man pulls the splinter out of the giant ogre's foot. The giant is stunned, then grateful, and thanks him with a gentle fist bump, then gets up and walks away into the mountains. Everything is filmed for real: real scale, real weight, real snow, real breath in the cold air. Shot on an ARRI Alexa 65 with large-format anamorphic lenses, 24 fps, 180-degree shutter, fine film grain. Not animation, not a video game.
+
+ACTIVE REFERENCES (each image has ONE job only)
+Image 1 = THE MAN'S FACE: lock his identity completely: [YOUR LOOK: glasses or not, hair, beard], his exact face. He wears his glasses in every shot.
+Image 2 = THE MAN'S OUTFIT AND BODY (the same man): tall and lean, not muscular, and his outfit exactly: a long rust-red wool coat with a hood resting on the shoulders, belted at the waist; a thick cream cable-knit scarf wrapped high at the neck; dark brown fingerless gloves over cream knit cuffs; charcoal wool trousers; tall brown leather snow boots with fur trim; a small brown canvas satchel across the body. No jewellery. Take nothing else from images 1 and 2: not their grey backgrounds, not the panel layout.
+Image 3 = THE OGRE'S LOOK ONLY. Copy his design exactly: a hunched, massive body with grey-green warty hide; small deep-set amber eyes under a heavy brow; a wide flat nose and two thick chipped yellowed lower tusks; a coarse black topknot; a heavy matted dark-brown fur cloak tied at the chest with a knotted rope; a stitched hide kilt with a rope belt and dented iron cuffs on both wrists; huge bare feet. Take nothing else from image 3: not its studio background, lighting or size; he is a GIANT here.
+Image 4 = THE FIRST FRAME AND THE WORLD. The video starts exactly on this frame and continues its motion. Copy from it exactly: the giant sitting against the rock wall, knees up, his hurt right foot raised with the sole toward the man; the man standing in front of the sole with his back to the camera; his trail of footprints leading back toward the camera; the tall snow-laden pine on the right; the snowy peaks behind; the low golden sun; the scale of everything, the colour and the light. The location, the giant's size and the man's size never change from this frame.
+Image 5 = THE SPLINTER, EXACTLY: its position, its colour and its look: a thin, pale golden, freshly split sliver of pine wood sticking out sideways from the outer side edge of the giant's right foot, below the smallest toe. Take nothing else from image 5.
+
+THE SPLINTER (must match image 5 in every shot)
+A thin, smooth, freshly split sliver of pine wood, pale straw-gold, with a sharp pointed tip and NO bark, never dark or brown. Next to the giant it looks like a thin needle. Next to the man it is about as long as his forearm and as thin as his finger, so he can grip it with both hands. After he pulls it out, he holds the very same pale golden sliver. No blood.
+
+== SHOT 1 — HE OFFERS THE FOOT [0.0–3.0s] ==
+CAMERA: EXACTLY the camera of image 4: same position, lens and framing. Locked off.
+0.0–1.0 Continuing from image 4: the man looks up at the giant; the giant looks down at him, wary, steam drifting from his nostrils.
+1.0–2.2 Slowly and carefully, the giant lowers and turns his right foot so the sole faces the man and the pale splinter rises to the height of the man's chest. Snow crumbles off his heel.
+2.2–3.0 The man takes three steps through the snow to the sole.
+HARD CUT.
+
+== SHOT 2 — THE PULL [3.0–6.0s] ==
+CAMERA: 32mm lens, low and side-on, locked off. The upright sole fills the right half of the frame like a wall of rough skin, the pale golden sliver sticking out sideways from its outer edge; the man stands on the left.
+He grips the sliver with both gloved hands, plants one boot flat against the side of the foot, leans his whole body back and pulls hard, teeth gritted, breath bursting out in clouds. It doesn't move. He resets his grip and pulls again.
+HARD CUT.
+
+== SHOT 3 — THE GIANT WINCES [6.0–7.0s] ==
+CAMERA: 75mm lens, a close-up of the ogre's face looking down, slightly from below, locked off.
+He winces and holds his breath, tusks clenched, eyes fixed on the man.
+HARD CUT.
+
+== SHOT 4 — IT COMES FREE [7.0–9.5s] ==
+CAMERA: the same low side-on 32mm framing as shot 2, locked off.
+With one last heave the sliver slides free of the side of the foot. The man tumbles backward and lands on his back in the snow, still clutching the same pale golden sliver. The giant toes curl and the foot jerks, shaking snow loose.
+HARD CUT.
+
+== SHOT 5 — RELIEF [9.5–11.5s] ==
+CAMERA: 75mm lens, a close-up of the ogre's face, locked off.
+Relief washes over him: a long, deep exhale that pours steam from his nostrils, his eyes closing for a moment. Then they open and look down at the man in surprise.
+HARD CUT.
+
+== SHOT 6 — THE FOOT COMES DOWN [11.5–14.0s] ==
+CAMERA: 24mm lens, low behind the man, locked off.
+The man gets up holding the pale sliver. In front of him, still seated, the giant sets his healed foot down flat on the snow with a deep THUD; it sinks in and a soft puff of powder rolls out around it.
+HARD CUT.
+
+== SHOT 7 — AWE [14.0–15.5s] ==
+CAMERA: 85mm lens, a close-up of the man's face looking up, locked off.
+Cheeks red from the cold, breath steaming, snow in his hair and on his glasses, eyes wide with awe.
+HARD CUT.
+
+== SHOT 8 — THE GIANT LEANS DOWN [15.5–18.0s] ==
+CAMERA: 32mm lens, low, past the man's shoulder, looking up, locked off.
+Still seated, the giant leans his enormous face slowly down toward the man, filling the upper part of the frame: tusks, amber eyes studying him gently. His warm breath reaches the man as a cloud of steam, stirring his hair and scarf.
+HARD CUT.
+
+== SHOT 9 — THE FIST [18.0–20.0s] ==
+CAMERA: 24mm lens, low and wide, locked off.
+Still seated, the giant slowly lowers one huge closed fist and rests it in the snow right in front of the man, knuckles toward him, the fist taller than he is. The snow compresses under it.
+HARD CUT.
+
+== SHOT 10 — HIS SMILE [20.0–21.5s] ==
+CAMERA: 85mm lens, a close-up of the man's face, locked off.
+He looks at the giant fist, unsure, then a small, delighted smile spreads across his face.
+HARD CUT.
+
+== SHOT 11 — FIST BUMP [21.5–23.5s] ==
+CAMERA: the same low wide 24mm framing as shot 9, locked off.
+He lets the sliver drop into the snow, makes a fist with his gloved hand, and gently bumps it against one of the giant's knuckles. A little snow falls off the giant's hand. The giant lifts his fist away.
+HARD CUT.
+
+== SHOT 12 — THE GIANT GETS UP AND WALKS AWAY [23.5–28.5s] ==
+CAMERA: EXACTLY the camera of image 4 again: same position, lens and framing. Locked off.
+23.5–25.3 THE GIANT GETS UP: still seated against the rock wall at first, he plants both huge hands on his knees, leans forward, and slowly, heavily pushes himself up, rising to his full, enormous height. Snow slides off his fur cloak and shoulders, and the rock wall sheds a little powder behind him. The man stands in the same spot, small in front of him, looking up.
+25.3–28.5 Only once he is fully standing does the giant turn to the right, step past the tall pine, and walk away along the valley toward the snowy peaks, slow and heavy. Each footstep sinks deep and throws up a puff of powder, leaving huge footprints beside the man's small trail. He grows smaller against the mountains, and fine spindrift blows across the frame.
+HARD CUT.
+
+== SHOT 13 — WONDER [28.5–30.0s] ==
+CAMERA: 85mm lens, a close-up of the man's face, three-quarter view, locked off.
+He watches the giant go with quiet wonder and a small, warm smile, golden sunlight on his cheek, a few sparkling snow crystals drifting past. Hold, wind only.
+
+PERFORMANCE AND MOTION
+Real, natural behaviour, never theatrical: effort and grit in the pull, a real fall, awe, then a small delighted smile. The ogre is gentle and slow: wariness, a wince, relief, surprise, curiosity, quiet gratitude. He stays seated from shot 1 to shot 11 and only stands up in shot 12, rising with visible effort. His huge body moves with enormous weight; the fur cloak and hide swing and settle with lag. He never threatens the man. Nobody speaks.
+
+REALISM (most important)
+- ONE LIGHT FOR EVERYTHING: low golden winter sun exactly as in image 4, the same on the man, the ogre, the snow, the rock and the trees.
+- THE GIANT IS REALLY THERE: his feet, fist and body sink into the snow and push up real powder; huge blue shadows fall across the snow and over the man; matte, dry, cold-reddened hide with pores and warts, frost in his fur cloak, real steam from his breath; seamless visual effects, never glossy, rubbery or computer-looking.
+- THE MAN IS REALLY THERE: lit by the same sun, his own shadow on the snow, snow on his coat and boots, cheeks and nose red from the cold, breath steaming, not brighter or cleaner than his surroundings.
+- COLOUR GRADE: exactly matching image 4: crisp natural winter grade, cool blue shadows, warm golden sunlight, white snow never blown out, soft highlight roll-off, real anamorphic lens flare from the low sun.
+
+SOUND (wordless, no music)
+Mountain wind, the crunch of his boots, the giant's heel scraping snow as he turns his foot, the man's grunts of effort and quick breathing, the creak of the wood sliding free, the soft thump of his landing in snow, the giant's long deep exhale of relief, the deep THUD of his foot, his low curious rumble, the soft tap of the fist bump, a deep groan of effort and snow sliding off his cloak as he gets up, the slow THUD… THUD of his footsteps fading into the distance, then just the wind. No music, no score, no dialogue, no narration.
+
+BANS
+- The first frame is exactly image 4. The location, the giant's size, the man's size and the light never change from it.
+- The man's face, glasses and outfit are always exactly images 1 and 2.
+- The ogre always matches image 3 and is always a giant, never human-sized.
+- He stays seated until shot 12; he never appears standing or walking without first getting up on screen.
+- The splinter always matches image 5: pale straw-gold, smooth, no bark, finger-thin, forearm-length. Never dark brown, never a stick with bark, never a log.
+- No blood, no gore. He never threatens, grabs or roars at the man.
+- The fist bump is gentle: the man's fist against one knuckle, nothing more.
+- No new rocks, boulders or trees appear. No other people, no animals, no other creatures.
+- No cartoon, plush or game look, no plastic skin.
+- No camera movement: every shot is locked off.
+- No snow that floats or freezes in the air, no smoke.
+- No music of any kind. No text, no subtitles, no logos, no watermarks.
+
+==============================================================================
+TOMA REHECHA: EL OGRO NO PUEDE SACARLA (5 s)
+==============================================================================
+
+A 5-second insert shot from a family fantasy adventure film, vertical 9:16, ONE continuous shot with no cuts, filmed in real snowy mountains on an ARRI Alexa 65 with an anamorphic lens, 24 fps, fine film grain. The video starts EXACTLY on the start image and ends EXACTLY on the end image: the same framing, the same giant ogre foot, the same giant hand, the same light. Image 1 = the friendly giant ogre's design (grey-green warty hide, iron cuff on the wrist).
+
+CAMERA: locked off on a tripod; it never moves, never zooms.
+
+THE SPLINTER stays EXACTLY where it is in the start image for the whole shot: one thin pale wooden splinter in the sole of the giant ogre's foot, close to its left edge, about one third of the way down from the smallest toe. It never moves, never comes out, and there is only one.
+
+ACTION (a gentle comedy beat):
+0.0–4.2 The giant ogre's enormous fingers try again and again to grab the tiny splinter, but his fingertips are far too big for it: they bump into it, slide right past it and miss it every time. The splinter stays where it is. The huge toes wiggle with each try.
+4.2–5.0 His big fingers pull back a little, back to where they were at the start. END exactly on the end image.
+
+LOOK: low golden winter sun exactly as in the start image; the ogre's hide is matte, dry and textured like weathered stone, never glossy; real weight in his fingers; seamless film visual effects.
+
+SOUND: mountain wind, the ogre's deep breathing, a low frustrated grumble. No music, no dialogue, no narration.
+
+BANS: the splinter is never pulled out, never moves, never multiplies. No people. No blood. No camera movement, no cuts. No text, no subtitles, no logos. Not cartoon, not a video game.
+
+==============================================================================
+TOMA REHECHA: EL JALÓN DE COSTADO Y LA CAÍDA (6 s)
+==============================================================================
+
+A 6-second shot from a family fantasy adventure film, vertical 9:16, ONE continuous shot with no cuts, filmed in real snowy mountains on an ARRI Alexa 65 with an anamorphic lens, 24 fps, natural motion blur, fine film grain. The video starts EXACTLY on the start image and ends EXACTLY on the end image: the same framing, the same giant foot, the same rock wall, the same low golden winter light.
+Image 1 = THE MAN'S FACE: [YOUR LOOK: glasses or not, hair, beard]. Image 2 = HIS FULL LOOK: long rust-red hooded wool coat with a leather belt, cream knitted scarf, fingerless gloves, canvas shoulder bag, dark trousers, fur-trimmed snow boots.
+
+CAMERA: locked off on a tripod; it never moves, never zooms.
+
+THE SPLINTER: one pale wooden splinter stuck in the OUTER SIDE EDGE of the giant's foot, exactly where it is in the start image, sticking out sideways to the left. It stays stuck in that same spot until 4.2 s. There is only one splinter.
+
+ACTION (a gentle comedy beat):
+0.0-4.2 The man pulls the splinter with all his strength, straight out to the left: he leans back further and further, his right boot pushing against the side of the giant foot, his arms straight, his face straining; he heaves again and again and the splinter slides out a little more each time; the huge toes twitch.
+4.2-4.6 The splinter suddenly comes free from the side of the foot.
+4.6-5.4 He flies backward and lands flat on his back in the snow, the splinter still in his hand, a puff of snow.
+5.4-6.0 He lies on his back in the snow holding the splinter up. END exactly on the end image.
+
+SOUND: mountain wind, his grunts of effort, the creak of wood, a sharp pop of wood, a soft thud in the snow, the giant's deep groan of relief. No music, no dialogue, no words.
+
+BANS: the splinter comes out of the SIDE of the foot, never out of the flat sole. No camera movement, no cuts. No text, no subtitles, no logos. Not cartoon, not a video game.
